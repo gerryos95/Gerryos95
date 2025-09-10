@@ -60,6 +60,6 @@ Appassionato di coding, problem solving e lavoro in team in contesti dinamici.
 ---
 
 ## 📎 Collegamenti
-- [LinkedIn](link) 
+- [LinkedIn](https://www.linkedin.com/in/gerardo-esposito-a2015a286) 
 
 ---
