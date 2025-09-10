@@ -36,11 +36,11 @@ Appassionato di coding, problem solving e lavoro in team in contesti dinamici.
 ---
 
 ## 🔹 Progetti principali
-- [**Nutryalize**](link) – Webapp su dataset alimentari, frontend React/JS, backend Node.js/Express, database MongoDB  
-- [**Webapp E-commerce Videogame (TSW)**](link) – Applicazione web con Tomcat Apache, Servlet Java, MVC e MySQL; frontend HTML/CSS/JS  
-- [**Documentazione e Test E-commerce (IS)**](link) – Use case, test case, documentazione; Trello, Slack e GitHub per organizzazione  
-- [**Applicativo Unity per regole IoT (Tesi)**](link) – Software in C# e Unity; visualizzazione regole IoT con grafo interattivo, output XML  
-- [**Progetti Android**](link) – Applicazioni sviluppate in Java su Android Studio nell’ambito dei progetti accademici  
+- [**Nutryalize**]() – Webapp su dataset alimentari, frontend React/JS, backend Node.js/Express, database MongoDB  
+- [**Webapp E-commerce Videogame (TSW)**]() – Applicazione web con Tomcat Apache, Servlet Java, MVC e MySQL; frontend HTML/CSS/JS  
+- [**Documentazione e Test E-commerce (IS)**]() – Use case, test case, documentazione; Trello, Slack e GitHub per organizzazione  
+- [**Applicativo Unity per regole IoT (Tesi)**]() – Software in C# e Unity; visualizzazione regole IoT con grafo interattivo, output XML  
+- [**Progetti Android**]() – Applicazioni sviluppate in Java su Android Studio nell’ambito dei progetti accademici  
 
 ---
 
